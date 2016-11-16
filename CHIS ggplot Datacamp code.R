@@ -1,4 +1,4 @@
-# Code if for the DATA Camp ggplot data visualization excercises: CHIS dataset
+# Code is for the DATA Camp ggplot data visualization excercises: CHIS dataset
 
 # Exploring Data
 
